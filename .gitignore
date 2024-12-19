@@ -2,3 +2,6 @@ pre-processing/glove.6B.100d.txt
 ner.json
 .ipynb_checkpoints
 model
+transformers-from-scratch/drugsComTest_raw.tsv
+data
+transformers-from-scratch/drugsComTrain_raw.tsv
