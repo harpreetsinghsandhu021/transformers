@@ -4,4 +4,5 @@ ner.json
 model
 transformers-from-scratch/drugsComTest_raw.tsv
 data
+transformers-from-scratch/logs/
 transformers-from-scratch/drugsComTrain_raw.tsv
